@@ -1,6 +1,6 @@
 cask "zysign" do
-  version "1.1.0"
-  sha256  "d198c88d29e79e98f718dfa2b943b41c9ce39ac352a503890fdc0aa02572920c"
+  version "3.2.0"
+  sha256  "7f468a221e4adc533ffb25532c27d5e2ddcaad8b0867dcfd5543fe89d458aeab"
 
   url "https://github.com/hypersdk/zysign/releases/download/v#{version}/ZySign-#{version}.dmg"
   name "ZySign"
