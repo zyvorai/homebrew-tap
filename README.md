@@ -10,6 +10,27 @@ brew tap hypersdk/tap
 
 ---
 
+## Formulae
+
+### FluxVM — Linux VMs on Apple silicon with Virtualization.framework
+
+```bash
+brew install zyvorai/tap/fluxvm
+fluxctl run                   # a throwaway Debian VM and a shell
+brew services start fluxvm    # the daemon, API on 127.0.0.1:7788
+```
+
+**What it installs:** `fluxctl`, the signed `fluxvm-vz-runner`, `fluxvm-vz-switch`, `fluxvm-blockd` and `fluxvm-usernet` (prebuilt, ~20 MB).
+
+| | |
+|---|---|
+| **Version** | 0.4.0 |
+| **macOS** | 14 Sonoma or later |
+| **Arch** | Apple Silicon only |
+| **Source** | https://github.com/zyvorai/zyvor-fluxvm/releases |
+
+---
+
 ## Casks
 
 ### ZySign — macOS DSC Toolkit for MCA21 V3
