@@ -66,6 +66,25 @@ rm -f  ~/Library/Preferences/com.zyvor.zysign.plist
 
 ---
 
+### Nivora — Mac-native application and network intelligence
+
+> See which apps talk to what, through which network. Observe-first, local-first.
+
+```bash
+brew install --cask zyvorai/tap/nivora
+```
+
+**What it installs:** `Nivora.app` in `/Applications` (DMG, unsigned and not notarised: macOS asks for "Open Anyway" on first launch).
+
+| | |
+|---|---|
+| **Version** | 0.5.0 |
+| **macOS** | 14 Sonoma or later |
+| **Arch** | Apple Silicon |
+| **Source** | https://github.com/zyvorai/zyvor-nivora/releases |
+
+---
+
 ## HyperCluster
 
 ```bash
