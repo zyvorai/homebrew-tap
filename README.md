@@ -31,6 +31,25 @@ brew services start fluxvm    # the daemon, API on 127.0.0.1:7788
 
 ---
 
+### MACORA (CLI) — your Mac's network, made clear
+
+```bash
+brew install zyvorai/tap/macora
+macora diagnose               # why is my network slow?
+macora en0                    # one interface, explained (macora en0 raw for ifconfig's own text)
+```
+
+**What it installs:** the signed `macora` command line tool, its man page and bash, zsh and fish completions (prebuilt, ~1 MB). Prefer the app? Use the cask below; it also puts `macora` on your PATH, so install one or the other.
+
+| | |
+|---|---|
+| **Version** | 0.3.1 |
+| **macOS** | 14 Sonoma or later |
+| **Arch** | Apple Silicon only |
+| **Source** | https://github.com/zyvorai/zyvor-macora/releases |
+
+---
+
 ## Casks
 
 ### ZySign — macOS DSC Toolkit for MCA21 V3
@@ -82,6 +101,23 @@ brew install --cask zyvorai/tap/nivora
 | **macOS** | 14 Sonoma or later |
 | **Arch** | Apple Silicon |
 | **Source** | https://github.com/zyvorai/zyvor-nivora/releases |
+
+---
+
+### MACORA — explains your Mac's network and diagnoses why it is slow
+
+```bash
+brew install --cask zyvorai/tap/macora
+```
+
+**What it installs:** `Macora.app` in `/Applications` (DMG, signed and **notarized by Apple**) and the `macora` command line tool on your PATH. The first launch shows macOS's usual "downloaded from the Internet" prompt: choose Open.
+
+| | |
+|---|---|
+| **Version** | 0.3.1 |
+| **macOS** | 14 Sonoma or later |
+| **Arch** | Apple Silicon |
+| **Source** | https://github.com/zyvorai/zyvor-macora/releases |
 
 ---
 
