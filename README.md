@@ -1,11 +1,11 @@
-# hypersdk/tap
+# zyvorai/tap
 
-Homebrew tap for [HyperSDK](https://zyvor.dev) products.
+Homebrew tap for [Zyvor AI Labs](https://zyvor.dev) products.
 
 ## Install
 
 ```bash
-brew tap hypersdk/tap
+brew tap zyvorai/tap
 ```
 
 ---
@@ -57,7 +57,7 @@ macora en0                    # one interface, explained (macora en0 raw for ifc
 > Sign MCA21 V3 eForms directly from your Mac using a USB DSC token — no eMudhra emBridge required.
 
 ```bash
-brew install --cask hypersdk/tap/zysign
+brew install --cask zyvorai/tap/zysign
 ```
 
 **What it installs:** `ZySign.app` dragged to `/Applications` (DMG install, ~89 MB).
@@ -68,12 +68,12 @@ brew install --cask hypersdk/tap/zysign
 | **macOS** | 13 Ventura or later |
 | **Arch** | Apple Silicon + Intel |
 | **Homepage** | https://zyvor.dev/zysign |
-| **Source** | https://github.com/hypersdk/zysign/releases |
+| **Source** | https://github.com/zyvorai/zysign/releases |
 
 #### Uninstall
 
 ```bash
-brew uninstall --cask hypersdk/tap/zysign
+brew uninstall --cask zyvorai/tap/zysign
 ```
 
 Removes `ZySign.app`. To also remove data files:
@@ -124,11 +124,11 @@ brew install --cask zyvorai/tap/macora
 ## HyperCluster
 
 ```bash
-brew install --cask hypersdk/tap/hypercluster
+brew install --cask zyvorai/tap/hypercluster
 ```
 
 ---
 
 ## Issues
 
-Report bugs or cask update requests at https://github.com/hypersdk/homebrew-tap/issues
+Report bugs or cask update requests at https://github.com/zyvorai/homebrew-tap/issues
