@@ -3,8 +3,8 @@
 class Macora < Formula
   desc "Explainable Mac network diagnosis: ifconfig-style CLI and terminal workspace"
   homepage "https://zyvorai.github.io/zyvor-macora/"
-  url "https://github.com/zyvorai/zyvor-macora/releases/download/v0.3.1/macora-0.3.1-arm64-apple-darwin.tar.gz"
-  sha256 "bafd907c44c7df8f2540b6867eab01068098e3512de711c695e582c8800ee103"
+  url "https://github.com/zyvorai/zyvor-macora/releases/download/v0.4.0/macora-0.4.0-arm64-apple-darwin.tar.gz"
+  sha256 "cebfdb0fe41e01b8502dd2da630718519e70e4f4a8ca2afb55f2789311a5d54c"
   license "Apache-2.0"
 
   livecheck do

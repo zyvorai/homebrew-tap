@@ -43,7 +43,7 @@ macora en0                    # one interface, explained (macora en0 raw for ifc
 
 | | |
 |---|---|
-| **Version** | 0.3.1 |
+| **Version** | 0.4.0 |
 | **macOS** | 14 Sonoma or later |
 | **Arch** | Apple Silicon only |
 | **Source** | https://github.com/zyvorai/zyvor-macora/releases |
@@ -114,7 +114,7 @@ brew install --cask zyvorai/tap/macora
 
 | | |
 |---|---|
-| **Version** | 0.3.1 |
+| **Version** | 0.4.0 |
 | **macOS** | 14 Sonoma or later |
 | **Arch** | Apple Silicon |
 | **Source** | https://github.com/zyvorai/zyvor-macora/releases |
