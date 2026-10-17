@@ -97,7 +97,7 @@ brew install --cask zyvorai/tap/nivora
 
 | | |
 |---|---|
-| **Version** | 0.5.0 |
+| **Version** | 0.5.2 |
 | **macOS** | 14 Sonoma or later |
 | **Arch** | Apple Silicon |
 | **Source** | https://github.com/zyvorai/zyvor-nivora/releases |
