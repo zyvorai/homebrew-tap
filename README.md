@@ -121,14 +121,6 @@ brew install --cask zyvorai/tap/macora
 
 ---
 
-## HyperCluster
-
-```bash
-brew install --cask zyvorai/tap/hypercluster
-```
-
----
-
 ## Issues
 
 Report bugs or cask update requests at https://github.com/zyvorai/homebrew-tap/issues
