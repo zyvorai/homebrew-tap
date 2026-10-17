@@ -1,10 +1,10 @@
 cask "zysign" do
-  version "3.2.0"
-  sha256  "7f468a221e4adc533ffb25532c27d5e2ddcaad8b0867dcfd5543fe89d458aeab"
+  version "3.2.1"
+  sha256  "12c065cb0ce69243a07c5821cf9b1607ce6d40f74b12c8281c490199ee40670a"
 
   url "https://github.com/zyvorai/zysign/releases/download/v#{version}/ZySign-#{version}.dmg"
   name "ZySign"
-  desc "macOS DSC signing toolkit for MCA21 V3 — replaces eMudhra emBridge"
+  desc "DSC signing toolkit for MCA21 V3 — replaces eMudhra emBridge"
   homepage "https://zyvor.dev/zysign"
 
   depends_on macos: :ventura
@@ -14,8 +14,8 @@ cask "zysign" do
   uninstall quit: "com.zyvor.zysign"
 
   zap trash: [
+    "/Library/ZySignBridge",
     "~/Library/Application Support/com.zyvor.zysign",
     "~/Library/Preferences/com.zyvor.zysign.plist",
-    "/Library/ZySignBridge",
   ]
 end

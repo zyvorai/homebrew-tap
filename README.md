@@ -64,7 +64,7 @@ brew install --cask zyvorai/tap/zysign
 
 | | |
 |---|---|
-| **Version** | 1.1.0 |
+| **Version** | 3.2.1 |
 | **macOS** | 13 Ventura or later |
 | **Arch** | Apple Silicon + Intel |
 | **Homepage** | https://zyvor.dev/zysign |
