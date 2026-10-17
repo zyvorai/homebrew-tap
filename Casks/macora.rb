@@ -1,8 +1,8 @@
 # Homebrew cask: MACORA.app (signed and notarized by Apple) plus the macora CLI on PATH. Lives in zyvorai/homebrew-tap.
 # Version and sha256 are filled in by scripts/update-homebrew.sh when a release is published.
 cask "macora" do
-  version "0.4.0"
-  sha256 "6a29f0274c5696a5dbae99ec739e29d83e7d8c8d3f1853c697cd5123ea041613"
+  version "0.4.1"
+  sha256 "e6ff44d3c77efdfa949535764a81d9ff537cc75a15b3522f7296468ef320a243"
 
   url "https://github.com/zyvorai/zyvor-macora/releases/download/v#{version}/Macora-#{version}.dmg"
   name "MACORA"
