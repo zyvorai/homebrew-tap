@@ -70,7 +70,7 @@ brew install --cask zyvorai/tap/gryvia
 | **Homepage** | https://zyvorai.github.io/zyvor-gryvia-apple/ |
 | **Source** | https://github.com/zyvorai/zyvor-gryvia-apple/releases |
 
-Free for personal, non-business use; business use needs a licence (see the homepage).
+Paid product: Personal is ₹420 one-time (about US$4.99); business plans start at ₹4,999 per year. See the homepage for plans and terms.
 
 ---
 
