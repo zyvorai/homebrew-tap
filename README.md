@@ -52,6 +52,28 @@ macora en0                    # one interface, explained (macora en0 raw for ifc
 
 ## Casks
 
+### Gryvia — a control plane for Apple Silicon fleets
+
+> Schedule inference, fine-tuning and benchmarks across your Macs against each machine's unified-memory budget, with quotas, leases, provenance and a live GPU view.
+
+```bash
+brew install --cask zyvorai/tap/gryvia
+```
+
+**What it installs:** `Gryvia.app` (SwiftUI app with the bundled agent and control plane), a Developer ID signed and notarized DMG. Start here: https://zyvorai.github.io/zyvor-gryvia-apple/start/
+
+| | |
+|---|---|
+| **Version** | 0.4.0 |
+| **macOS** | 15 Sequoia or later |
+| **Arch** | Apple Silicon only |
+| **Homepage** | https://zyvorai.github.io/zyvor-gryvia-apple/ |
+| **Source** | https://github.com/zyvorai/zyvor-gryvia-apple/releases |
+
+Free for personal, non-business use; business use needs a licence (see the homepage).
+
+---
+
 ### ZySign — macOS DSC Toolkit for MCA21 V3
 
 > Sign MCA21 V3 eForms directly from your Mac using a USB DSC token — no eMudhra emBridge required.
