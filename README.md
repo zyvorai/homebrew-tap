@@ -143,6 +143,24 @@ brew install --cask zyvorai/tap/macora
 
 ---
 
+### TERYON — persistent remote shells over OpenSSH
+
+```bash
+brew install --cask zyvorai/tap/teryon
+teryon setup                  # guided first run: tools, SSH hosts, theme
+```
+
+**What it installs:** `TERYON.app` in `/Applications` (DMG, signed and **notarized by Apple**) and the `teryon` command line tool on your PATH.
+
+| | |
+|---|---|
+| **Version** | 0.22.0 |
+| **macOS** | 11 Big Sur or later |
+| **Arch** | Apple Silicon |
+| **Source** | https://github.com/zyvorai/teryon/releases |
+
+---
+
 ## Issues
 
 Report bugs or cask update requests at https://github.com/zyvorai/homebrew-tap/issues
