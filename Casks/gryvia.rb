@@ -1,6 +1,6 @@
 cask "gryvia" do
-  version "0.4.3"
-  sha256  "3f5a1ceac81741b90cb0308946a971db24fcdb0ab143298f6a9dc4957375e61c"
+  version "0.5.0"
+  sha256  "7741df8132fec1c0424d03285b7e5ed18a02875f6ec8107350181a9c255f3b09"
 
   url "https://github.com/zyvorai/zyvor-gryvia-apple/releases/download/v#{version}/Gryvia-#{version}.dmg"
   name "Gryvia"
