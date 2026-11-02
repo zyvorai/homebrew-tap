@@ -1,6 +1,6 @@
 cask "teryon" do
-  version "0.22.0"
-  sha256  "a3511cfeda42bd18dbaa3613b9436955feea5ffba70f6aaeccb64b8ca5bb659d"
+  version "0.24.0"
+  sha256  "5e4c2decf4034ffa4e44c0120fc92dbff41c35175a64cc0afd2f815467079fac"
 
   url "https://github.com/zyvorai/teryon/releases/download/v#{version}/TERYON-#{version}.dmg"
   name "TERYON"
