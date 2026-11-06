@@ -1,7 +1,7 @@
 # Checksum verified with `brew fetch` (0.5.3); not installed through Homebrew. Source of truth: zyvorai/zyvor-nivora packaging/homebrew/nivora.rb.
 cask "nivora" do
   version "0.5.3"
-  sha256  "50d50f372d18863f3fe0f11fed0bd27a9ee13f7863391b7f093a99a7ac72b411"
+  sha256  "a85ec4f6b4b63a6cc5595c0f9182e69b856c516636e4169693c4541559c44cf5"
 
   url "https://github.com/zyvorai/zyvor-nivora/releases/download/v#{version}/Nivora-#{version}.dmg"
   name "Nivora"
