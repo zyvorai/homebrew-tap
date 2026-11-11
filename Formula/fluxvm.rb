@@ -3,9 +3,9 @@
 class Fluxvm < Formula
   desc "VM control plane: Linux VMs on Apple silicon with Virtualization.framework"
   homepage "https://github.com/zyvorai/zyvor-fluxvm"
-  version "0.4.15"
+  version "0.4.19"
   url "https://github.com/zyvorai/zyvor-fluxvm/releases/download/v#{version}/fluxvm-#{version}-macos-arm64.tar.gz"
-  sha256 "5bec7e87a9e41ea66f6cc5beba3145905d3b80f771699f941b82585263159d9e"
+  sha256 "ea7432e5d326a947ade02567f4cc1cb6386021dee1974b85d9c2db5fa0086c29"
   license "Apache-2.0"
 
   depends_on arch: :arm64
