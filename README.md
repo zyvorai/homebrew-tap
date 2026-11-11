@@ -8,6 +8,8 @@ Homebrew tap for [Zyvor AI Labs](https://zyvor.dev) products.
 brew tap zyvorai/tap
 ```
 
+Licences for paid products are sold via [Cashfree](https://payments.cashfree.com/) (India and international cards). The invoice is your proof of licence; there is no licence key or in-app unlock yet.
+
 ---
 
 ## Formulae
@@ -24,10 +26,31 @@ brew services start fluxvm    # the daemon, API on 127.0.0.1:7788
 
 | | |
 |---|---|
-| **Version** | 0.4.0 |
+| **Version** | 0.4.19 |
 | **macOS** | 14 Sonoma or later |
 | **Arch** | Apple Silicon only |
 | **Source** | https://github.com/zyvorai/zyvor-fluxvm/releases |
+
+---
+
+### Elvora (CLI) — Apple infrastructure cloud agent and CLI
+
+```bash
+brew install zyvorai/tap/elvora
+elvoractl --version
+```
+
+**What it installs:** `elvora-agent`, `elvoractl`, and `elvora-fluxvm-runner` under `$(brew --prefix elvora)/libexec` (prebuilt darwin-arm64). Menu-bar app: `brew install --cask zyvorai/tap/elvora`.
+
+| | |
+|---|---|
+| **Version** | 0.4.1 |
+| **macOS** | 14 Sonoma or later |
+| **Arch** | Apple Silicon only |
+| **Homepage** | https://zyvorai.github.io/elvora/ |
+| **Source** | https://github.com/zyvorai/elvora/releases |
+
+Paid product: **$49 per enrolled Mac / year**. Buy on [Cashfree](https://payments.cashfree.com/forms/zyvor-elvora) (India + international). See [LICENSING](https://github.com/zyvorai/elvora/blob/main/LICENSING.md).
 
 ---
 
@@ -51,6 +74,46 @@ macora en0                    # one interface, explained (macora en0 raw for ifc
 ---
 
 ## Casks
+
+### Velora — VMs, models and clusters on your Mac
+
+```bash
+brew install --cask zyvorai/tap/velora
+```
+
+**What it installs:** `Velora.app` from a Developer ID signed DMG.
+
+| | |
+|---|---|
+| **Version** | 0.4.3 |
+| **macOS** | 26 Tahoe or later |
+| **Arch** | Apple Silicon only |
+| **Homepage** | https://zyvorai.github.io/velora/ |
+| **Source** | https://github.com/zyvorai/velora/releases |
+
+BSL: free for personal, home, learning and non-production use. **Velora Pro** (production): **₹7,299 / Mac / year** (~US$86). Buy on [Cashfree](https://payments.cashfree.com/forms/zyvor-velora) (India + international).
+
+---
+
+### Elvora — menu-bar companion for the Apple infrastructure cloud
+
+```bash
+brew install --cask zyvorai/tap/elvora
+```
+
+**What it installs:** `Elvora.app` (DMG). Pair with the formula for the agent/CLI: `brew install zyvorai/tap/elvora`.
+
+| | |
+|---|---|
+| **Version** | 0.4.1 |
+| **macOS** | 14 Sonoma or later |
+| **Arch** | Apple Silicon only |
+| **Homepage** | https://zyvorai.github.io/elvora/ |
+| **Source** | https://github.com/zyvorai/elvora/releases |
+
+Paid product: **$49 per enrolled Mac / year**. Buy on [Cashfree](https://payments.cashfree.com/forms/zyvor-elvora) (India + international).
+
+---
 
 ### Gryvia — a control plane for Apple Silicon fleets
 
