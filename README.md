@@ -8,7 +8,7 @@ Homebrew tap for [Zyvor AI Labs](https://zyvor.dev) products.
 brew tap zyvorai/tap
 ```
 
-Licences for paid products are sold via [Cashfree](https://payments.cashfree.com/) (India and international cards). The invoice is your proof of licence; there is no licence key or in-app unlock yet.
+Licences for paid products are sold via [Cashfree](https://payments.cashfree.com/) (India) and Razorpay (international cards). The invoice is your proof of licence; there is no licence key or in-app unlock yet.
 
 ---
 
