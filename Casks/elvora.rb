@@ -24,7 +24,7 @@ cask "elvora" do
   ]
 
   caveats <<~EOS
-    Elvora is commercially licensed ($49 per enrolled Mac / year).
+    Elvora is commercially licensed ($199 per enrolled Mac / year).
     Buy (Cashfree, India + international cards):
       https://payments.cashfree.com/forms/zyvor-elvora
     Install the agent/CLI with: brew install zyvorai/tap/elvora

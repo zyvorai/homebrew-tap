@@ -17,7 +17,7 @@ class Elvora < Formula
 
   def caveats
     <<~EOS
-      Elvora is commercially licensed ($49 per enrolled Mac / year).
+      Elvora is commercially licensed ($199 per enrolled Mac / year).
       Buy (Cashfree, India + international cards):
         https://payments.cashfree.com/forms/zyvor-elvora
       Or: sales@zyvor.dev · https://zyvorai.github.io/elvora/#pricing
