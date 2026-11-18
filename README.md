@@ -50,7 +50,7 @@ elvoractl --version
 | **Homepage** | https://zyvorai.github.io/elvora/ |
 | **Source** | https://github.com/zyvorai/elvora/releases |
 
-Paid product: **$199 per enrolled Mac / year**. Buy on [Cashfree](https://payments.cashfree.com/forms/zyvor-elvora) (India + international). See [LICENSING](https://github.com/zyvorai/elvora/blob/main/LICENSING.md).
+Paid product: **$199 per enrolled Mac / year**. Buy on [Razorpay](https://rzp.io/rzp/sW0fMhui) (India + international). See [LICENSING](https://github.com/zyvorai/elvora/blob/main/LICENSING.md).
 
 ---
 
@@ -91,7 +91,7 @@ brew install --cask zyvorai/tap/velora
 | **Homepage** | https://zyvorai.github.io/velora/ |
 | **Source** | https://github.com/zyvorai/velora/releases |
 
-BSL: free for personal, home, learning and non-production use. **Velora Pro** (production): **₹7,299 / Mac / year** (~US$86). Buy on [Cashfree](https://payments.cashfree.com/forms/zyvor-velora) (India + international).
+BSL: free for personal, home, learning and non-production use. **Velora Pro** (production): **₹7,299 / Mac / year** (~US$86). Buy on [Razorpay](https://payments.cashfree.com/forms/zyvor-velora) (India + international).
 
 ---
 
@@ -111,7 +111,7 @@ brew install --cask zyvorai/tap/elvora
 | **Homepage** | https://zyvorai.github.io/elvora/ |
 | **Source** | https://github.com/zyvorai/elvora/releases |
 
-Paid product: **$199 per enrolled Mac / year**. Buy on [Cashfree](https://payments.cashfree.com/forms/zyvor-elvora) (India + international).
+Paid product: **$199 per enrolled Mac / year**. Buy on [Razorpay](https://rzp.io/rzp/sW0fMhui) (India + international).
 
 ---
 
