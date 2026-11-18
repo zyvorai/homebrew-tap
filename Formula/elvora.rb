@@ -18,8 +18,9 @@ class Elvora < Formula
   def caveats
     <<~EOS
       Elvora is commercially licensed ($199 per enrolled Mac / year).
-      Buy (Razorpay, India + international cards):
-        https://rzp.io/rzp/sW0fMhui
+      Buy:
+        India (Cashfree): https://payments.cashfree.com/forms/zyvor-elvora-199
+        International (Razorpay): https://rzp.io/rzp/sW0fMhui
       Or: sales@zyvor.dev · https://zyvorai.github.io/elvora/#pricing
 
       Point agents that run macos-vm workloads at the FluxVM runner:
