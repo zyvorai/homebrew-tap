@@ -50,7 +50,7 @@ elvoractl --version
 | **Homepage** | https://zyvorai.github.io/elvora/ |
 | **Source** | https://github.com/zyvorai/elvora/releases |
 
-Paid product: **$199 per enrolled Mac / year**. Buy on [India (Cashfree)](https://payments.cashfree.com/forms/zyvor-elvora-199) · [International (Razorpay)](https://rzp.io/rzp/sW0fMhui) (Cashfree for India; Razorpay for international). See [LICENSING](https://github.com/zyvorai/elvora/blob/main/LICENSING.md).
+Paid product: **$199 per enrolled Mac / year**. Buy on [Razorpay](https://rzp.io/rzp/sW0fMhui). See [LICENSING](https://github.com/zyvorai/elvora/blob/main/LICENSING.md).
 
 ---
 
@@ -91,7 +91,7 @@ brew install --cask zyvorai/tap/velora
 | **Homepage** | https://zyvorai.github.io/velora/ |
 | **Source** | https://github.com/zyvorai/velora/releases |
 
-BSL: free for personal, home, learning and non-production use. **Velora Pro** (production): **₹7,299 / Mac / year** (~US$86). Buy on [Cashfree](https://payments.cashfree.com/forms/zyvor-velora) · [International (Razorpay)](https://rzp.io/rzp/cjooj55V) (Cashfree for India; Razorpay for international).
+BSL: free for personal, home, learning and non-production use. **Velora Pro** (production): **₹7,299 / Mac / year** (~US$86). Buy on [Razorpay](https://rzp.io/rzp/cjooj55V).
 
 ---
 
@@ -111,7 +111,7 @@ brew install --cask zyvorai/tap/elvora
 | **Homepage** | https://zyvorai.github.io/elvora/ |
 | **Source** | https://github.com/zyvorai/elvora/releases |
 
-Paid product: **$199 per enrolled Mac / year**. Buy on [India (Cashfree)](https://payments.cashfree.com/forms/zyvor-elvora-199) · [International (Razorpay)](https://rzp.io/rzp/sW0fMhui) (Cashfree for India; Razorpay for international).
+Paid product: **$199 per enrolled Mac / year**. Buy on [Razorpay](https://rzp.io/rzp/sW0fMhui).
 
 ---
 
@@ -123,15 +123,15 @@ Paid product: **$199 per enrolled Mac / year**. Buy on [India (Cashfree)](https:
 brew install --cask zyvorai/tap/gryvia
 ```
 
-**What it installs:** `Gryvia.app` (SwiftUI app with the bundled agent and control plane), a Developer ID signed and notarized DMG. Start here: https://zyvorai.github.io/zyvor-gryvia-apple/start/
+**What it installs:** `Gryvia.app` (SwiftUI app with the bundled agent and control plane), a Developer ID signed and notarized DMG. Start here: https://zyvorai.github.io/gryvia-apple/start/
 
 | | |
 |---|---|
 | **Version** | 0.4.0 |
 | **macOS** | 15 Sequoia or later |
 | **Arch** | Apple Silicon only |
-| **Homepage** | https://zyvorai.github.io/zyvor-gryvia-apple/ |
-| **Source** | https://github.com/zyvorai/zyvor-gryvia-apple/releases |
+| **Homepage** | https://zyvorai.github.io/gryvia-apple/ |
+| **Source** | https://github.com/zyvorai/gryvia-apple/releases |
 
 Paid product: Personal is ₹420 one-time (about US$4.99); business plans start at ₹4,999 per year. See the homepage for plans and terms.
 
@@ -185,7 +185,7 @@ brew install --cask zyvorai/tap/nivora
 | **Version** | 0.5.2 |
 | **macOS** | 14 Sonoma or later |
 | **Arch** | Apple Silicon |
-| **Source** | https://github.com/zyvorai/zyvor-nivora/releases |
+| **Source** | https://github.com/zyvorai/nivora/releases |
 
 ---
 
