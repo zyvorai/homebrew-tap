@@ -1,15 +1,15 @@
-# Checksum verified with `brew fetch` (0.5.3); not installed through Homebrew. Source of truth: zyvorai/zyvor-nivora packaging/homebrew/nivora.rb.
+# Notarized Nivora 0.5.4 from github.com/zyvorai/nivora releases.
 cask "nivora" do
-  version "0.5.3"
-  sha256  "a85ec4f6b4b63a6cc5595c0f9182e69b856c516636e4169693c4541559c44cf5"
+  version "0.5.4"
+  sha256  "6765d67f2dae19259b66f6c0e18f7f88db9f0d05be5c9aae2fb5134e2fc49440"
 
-  url "https://github.com/zyvorai/zyvor-nivora/releases/download/v#{version}/Nivora-#{version}.dmg"
+  url "https://github.com/zyvorai/nivora/releases/download/v#{version}/Nivora-#{version}.dmg"
   name "Nivora"
   desc "Native application and network intelligence, observe-first"
-  homepage "https://zyvorai.github.io/zyvor-nivora/"
+  homepage "https://zyvorai.github.io/nivora/"
 
   depends_on arch: :arm64
-  depends_on macos: :sonoma
+  depends_on macos: :sequoia
 
   app "Nivora.app"
 
@@ -19,8 +19,8 @@ cask "nivora" do
   ]
 
   caveats <<~EOS
-    This build is unsigned and not notarised. On first launch macOS will block it:
-    open System Settings > Privacy & Security and choose "Open Anyway" next to Nivora.
-    See https://github.com/zyvorai/zyvor-nivora/blob/main/docs/INSTALL.md
+    Nivora is signed and notarized by Apple. Free for non-production use.
+    Free 30-day trial key: sales@zyvor.dev. Licences: https://zyvor.dev/buy
+    Install notes: https://github.com/zyvorai/nivora/blob/main/docs/INSTALL.md
   EOS
 end
