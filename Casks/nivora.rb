@@ -20,7 +20,7 @@ cask "nivora" do
 
   caveats <<~EOS
     Nivora is signed and notarized by Apple. Free for non-production use.
-    Free 30-day trial key: sales@zyvor.dev. Licences: https://zyvor.dev/buy
+    The app runs without a key. For a free 30-day trial key, email sales@zyvor.dev. Licences: https://zyvor.dev/buy
     Install notes: https://github.com/zyvorai/nivora/blob/main/docs/INSTALL.md
   EOS
 end
