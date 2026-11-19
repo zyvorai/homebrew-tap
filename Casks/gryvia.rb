@@ -1,11 +1,11 @@
 cask "gryvia" do
-  version "0.5.1"
-  sha256  "c565cfb20415c863773cfe64892f17ce3e9eb6466aaf676770546655395080d4"
+  version "0.5.2"
+  sha256  "a1e406d73bffd4492f4876f577b498ffc4bb0a1a26b46d71775ae06dd4d8251d"
 
-  url "https://github.com/zyvorai/zyvor-gryvia-apple/releases/download/v#{version}/Gryvia-#{version}.dmg"
+  url "https://github.com/zyvorai/gryvia-apple/releases/download/v#{version}/Gryvia-#{version}.dmg"
   name "Gryvia"
   desc "Schedule AI workloads across Apple Silicon Macs by memory budget"
-  homepage "https://zyvorai.github.io/zyvor-gryvia-apple/"
+  homepage "https://zyvorai.github.io/gryvia-apple/"
 
   depends_on arch: :arm64
   depends_on macos: :sequoia
