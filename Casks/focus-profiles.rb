@@ -28,7 +28,7 @@ cask "focus-profiles" do
 
   caveats <<~EOS
     Focus Profiles is signed and notarized by Apple. It is a paid app with a 30-day trial and never disables a feature.
-    Free 30-day trial key or a licence: sales@zyvor.dev
+    30-day trial key or a licence: sales@zyvor.dev
     Install notes: https://github.com/zyvorai/focus-profiles/blob/main/docs/INSTALL.md
   EOS
 end

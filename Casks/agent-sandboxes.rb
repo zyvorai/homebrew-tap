@@ -28,6 +28,6 @@ cask "agent-sandboxes" do
 
   caveats <<~EOS
     Agent Sandboxes is signed and notarized by Apple. It is a paid app with a 30-day trial and never disables a feature.
-    Free 30-day trial key or a licence: sales@zyvor.dev
+    30-day trial key or a licence: sales@zyvor.dev
   EOS
 end

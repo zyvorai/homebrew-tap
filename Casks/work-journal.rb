@@ -28,7 +28,7 @@ cask "work-journal" do
 
   caveats <<~EOS
     Work Journal is signed and notarized by Apple and needs macOS 27 or later.
-    It works without a key. Free 30-day trial key: sales@zyvor.dev. Paid licences: contact sales@zyvor.dev.
+    30-day trial key: sales@zyvor.dev. Paid licences: contact sales@zyvor.dev.
     Install notes: https://github.com/zyvorai/work-journal/blob/main/docs/INSTALL.md
   EOS
 end

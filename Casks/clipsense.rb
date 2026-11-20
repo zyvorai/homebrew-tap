@@ -28,7 +28,7 @@ cask "clipsense" do
 
   caveats <<~EOS
     ClipSense is signed and notarized by Apple and needs macOS 27 or later.
-    It works without a key. Free 30-day trial key: sales@zyvor.dev. Paid licences are not on sale yet.
+    30-day trial key: sales@zyvor.dev. Paid licences are not on sale yet.
     Install notes: https://github.com/zyvorai/clipsense/blob/main/docs/INSTALL.md
   EOS
 end

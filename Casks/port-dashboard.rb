@@ -19,7 +19,7 @@ cask "port-dashboard" do
   zap trash: "~/Library/Preferences/dev.zyvor.ports.plist"
 
   caveats <<~EOS
-    Port Dashboard is signed and notarized by Apple. Free, no licence key.
+    Port Dashboard is signed and notarized by Apple. A licence is required: sales@zyvor.dev.
     It lives in the menu bar (no Dock icon). Install notes: https://github.com/zyvorai/port-dashboard/blob/main/docs/INSTALL.md
   EOS
 end

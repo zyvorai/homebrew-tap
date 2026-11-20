@@ -28,8 +28,7 @@ cask "velora" do
   ]
 
   caveats <<~EOS
-    Personal, home, learning and non-production use are free under the BSL.
-    Production business use needs Velora Pro (₹7,299 / Mac / year, ~US$86).
+    Velora Pro: ₹7,299 / Mac / year (~US$86).
     Buy:
       Razorpay: https://rzp.io/rzp/cjooj55V
     Docs: https://zyvorai.github.io/velora/#pricing

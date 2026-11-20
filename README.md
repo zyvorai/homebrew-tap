@@ -91,7 +91,7 @@ brew install --cask zyvorai/tap/velora
 | **Homepage** | https://zyvorai.github.io/velora/ |
 | **Source** | https://github.com/zyvorai/velora/releases |
 
-BSL: free for personal, home, learning and non-production use. **Velora Pro** (production): **₹7,299 / Mac / year** (~US$86). Buy on [Razorpay](https://rzp.io/rzp/cjooj55V).
+**Velora Pro**: **₹7,299 / Mac / year** (~US$86). Buy on [Razorpay](https://rzp.io/rzp/cjooj55V).
 
 ---
 
