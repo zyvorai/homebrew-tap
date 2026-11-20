@@ -29,7 +29,7 @@ brew services start fluxvm    # the daemon, API on 127.0.0.1:7788
 | **Version** | 0.4.19 |
 | **macOS** | 14 Sonoma or later |
 | **Arch** | Apple Silicon only |
-| **Source** | https://github.com/zyvorai/zyvor-fluxvm/releases |
+| **Releases** | https://github.com/zyvorai/zyvor-fluxvm/releases |
 
 ---
 
@@ -48,9 +48,9 @@ elvoractl --version
 | **macOS** | 14 Sonoma or later |
 | **Arch** | Apple Silicon only |
 | **Homepage** | https://zyvorai.github.io/elvora/ |
-| **Source** | https://github.com/zyvorai/elvora/releases |
+| **Releases** | https://github.com/zyvorai/elvora/releases |
 
-Paid product: **$199 per enrolled Mac / year**. Buy on [Razorpay](https://rzp.io/rzp/sW0fMhui). See [LICENSING](https://github.com/zyvorai/elvora/blob/main/LICENSING.md).
+Paid product, licensed per enrolled Mac per year. Prices: https://zyvor.dev/pricing. Buy on [Razorpay](https://rzp.io/rzp/sW0fMhui). See [LICENSING](https://github.com/zyvorai/elvora/blob/main/LICENSING.md).
 
 ---
 
@@ -69,7 +69,7 @@ macora en0                    # one interface, explained (macora en0 raw for ifc
 | **Version** | 0.4.0 |
 | **macOS** | 14 Sonoma or later |
 | **Arch** | Apple Silicon only |
-| **Source** | https://github.com/zyvorai/zyvor-macora/releases |
+| **Releases** | https://github.com/zyvorai/zyvor-macora/releases |
 
 ---
 
@@ -89,9 +89,9 @@ brew install --cask zyvorai/tap/velora
 | **macOS** | 26 Tahoe or later |
 | **Arch** | Apple Silicon only |
 | **Homepage** | https://zyvorai.github.io/velora/ |
-| **Source** | https://github.com/zyvorai/velora/releases |
+| **Releases** | https://github.com/zyvorai/velora/releases |
 
-**Velora Pro**: **₹7,299 / Mac / year** (~US$86). Buy on [Razorpay](https://rzp.io/rzp/cjooj55V).
+**Velora Pro** is a paid per-Mac subscription. Prices: https://zyvor.dev/pricing. Buy on [Razorpay](https://rzp.io/rzp/cjooj55V).
 
 ---
 
@@ -109,9 +109,9 @@ brew install --cask zyvorai/tap/elvora
 | **macOS** | 14 Sonoma or later |
 | **Arch** | Apple Silicon only |
 | **Homepage** | https://zyvorai.github.io/elvora/ |
-| **Source** | https://github.com/zyvorai/elvora/releases |
+| **Releases** | https://github.com/zyvorai/elvora/releases |
 
-Paid product: **$199 per enrolled Mac / year**. Buy on [Razorpay](https://rzp.io/rzp/sW0fMhui).
+Paid product, licensed per enrolled Mac per year. Prices: https://zyvor.dev/pricing. Buy on [Razorpay](https://rzp.io/rzp/sW0fMhui).
 
 ---
 
@@ -131,9 +131,9 @@ brew install --cask zyvorai/tap/gryvia
 | **macOS** | 15 Sequoia or later |
 | **Arch** | Apple Silicon only |
 | **Homepage** | https://zyvorai.github.io/gryvia-apple/ |
-| **Source** | https://github.com/zyvorai/gryvia-apple/releases |
+| **Releases** | https://github.com/zyvorai/gryvia-apple/releases |
 
-Paid product: Personal is ₹420 one-time (about US$4.99); business plans start at ₹4,999 per year. See the homepage for plans and terms.
+Paid product (Personal and business plans). Prices: https://zyvor.dev/pricing. See the homepage for plans and terms.
 
 ---
 
@@ -153,7 +153,7 @@ brew install --cask zyvorai/tap/zysign
 | **macOS** | 13 Ventura or later |
 | **Arch** | Apple Silicon + Intel |
 | **Homepage** | https://zyvor.dev/zysign |
-| **Source** | https://github.com/zyvorai/zysign/releases |
+| **Releases** | https://github.com/zyvorai/zysign/releases |
 
 #### Uninstall
 
@@ -185,7 +185,7 @@ brew install --cask zyvorai/tap/nivora
 | **Version** | 0.5.2 |
 | **macOS** | 14 Sonoma or later |
 | **Arch** | Apple Silicon |
-| **Source** | https://github.com/zyvorai/nivora/releases |
+| **Releases** | https://github.com/zyvorai/nivora/releases |
 
 ---
 
@@ -202,7 +202,7 @@ brew install --cask zyvorai/tap/macora
 | **Version** | 0.4.0 |
 | **macOS** | 14 Sonoma or later |
 | **Arch** | Apple Silicon |
-| **Source** | https://github.com/zyvorai/zyvor-macora/releases |
+| **Releases** | https://github.com/zyvorai/zyvor-macora/releases |
 
 ---
 
@@ -220,9 +220,13 @@ teryon setup                  # guided first run: tools, SSH hosts, theme
 | **Version** | 0.22.0 |
 | **macOS** | 11 Big Sur or later |
 | **Arch** | Apple Silicon |
-| **Source** | https://github.com/zyvorai/teryon/releases |
+| **Releases** | https://github.com/zyvorai/teryon/releases |
 
 ---
+
+## Licence
+
+This tap (the formula and cask definitions) is under the Zyvor Production License v1.0, see [LICENSE](LICENSE). The software each entry installs has its own licence. Non-production use of Zyvor Production License software is free; any production use needs a paid commercial licence from ZyvorAI Labs Private Limited ([zyvor.dev/pricing](https://zyvor.dev/pricing), sales@zyvor.dev).
 
 ## Issues
 
