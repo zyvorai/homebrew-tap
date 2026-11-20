@@ -8,7 +8,7 @@ class Macora < Formula
   homepage "https://zyvorai.github.io/zyvor-macora/"
   url "https://github.com/zyvorai/zyvor-macora/releases/download/v0.5.0/macora-0.5.0-arm64-apple-darwin.tar.gz"
   sha256 "7ed2bba0796833f81b61fe45f427122e214b1874930299b54ad49add08b3ecad"
-  license "Apache-2.0"
+  license :cannot_represent
 
   livecheck do
     url :url
