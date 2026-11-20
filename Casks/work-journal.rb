@@ -1,3 +1,6 @@
+# Copyright 2026 Zyvor AI Labs · https://zyvor.dev
+# SPDX-License-Identifier: LicenseRef-Zyvor-Production-1.0
+
 # Notarized Work Journal 0.1.1 from github.com/zyvorai/work-journal releases.
 cask "work-journal" do
   version "0.1.1"

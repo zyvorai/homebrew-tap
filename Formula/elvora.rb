@@ -1,3 +1,6 @@
+# Copyright 2026 Zyvor AI Labs · https://zyvor.dev
+# SPDX-License-Identifier: LicenseRef-Zyvor-Production-1.0
+
 # Homebrew formula for the prebuilt Elvora agent/CLI (signed darwin-arm64 tarball from zyvorai/elvora releases).
 class Elvora < Formula
   desc "Apple infrastructure cloud: fleet agent, CLI and FluxVM runner"

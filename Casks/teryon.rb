@@ -1,3 +1,6 @@
+# Copyright 2026 Zyvor AI Labs · https://zyvor.dev
+# SPDX-License-Identifier: LicenseRef-Zyvor-Production-1.0
+
 cask "teryon" do
   version "0.24.0"
   sha256  "5e4c2decf4034ffa4e44c0120fc92dbff41c35175a64cc0afd2f815467079fac"

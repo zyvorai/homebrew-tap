@@ -1,3 +1,6 @@
+# Copyright 2026 Zyvor AI Labs · https://zyvor.dev
+# SPDX-License-Identifier: LicenseRef-Zyvor-Production-1.0
+
 cask "gryvia" do
   version "0.5.2"
   sha256  "a1e406d73bffd4492f4876f577b498ffc4bb0a1a26b46d71775ae06dd4d8251d"

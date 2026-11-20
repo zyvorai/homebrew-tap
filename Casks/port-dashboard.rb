@@ -1,3 +1,6 @@
+# Copyright 2026 Zyvor AI Labs · https://zyvor.dev
+# SPDX-License-Identifier: LicenseRef-Zyvor-Production-1.0
+
 # Notarized Port Dashboard 1.0.0 from github.com/zyvorai/port-dashboard releases.
 cask "port-dashboard" do
   version "1.0.0"

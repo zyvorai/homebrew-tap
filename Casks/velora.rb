@@ -1,3 +1,6 @@
+# Copyright 2026 Zyvor AI Labs · https://zyvor.dev
+# SPDX-License-Identifier: LicenseRef-Zyvor-Production-1.0
+
 # Homebrew cask: Velora.app (signed/notarized DMG from zyvorai/velora releases).
 cask "velora" do
   version "0.4.4"
