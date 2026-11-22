@@ -226,7 +226,7 @@ teryon setup                  # guided first run: tools, SSH hosts, theme
 
 ## Licence
 
-This tap (the formula and cask definitions) is under the Zyvor Production License v1.0, see [LICENSE](LICENSE). The software each entry installs has its own licence. Non-production use of Zyvor Production License software is free; any production use needs a paid commercial licence from ZyvorAI Labs Private Limited ([zyvor.dev/pricing](https://zyvor.dev/pricing), sales@zyvor.dev).
+This tap (the formula and cask definitions) is under the Zyvor Production Licence v2.0, see [LICENSE](LICENSE). The software each entry installs has its own licence. A 30-day trial is available on request from sales@zyvor.dev (a paid evaluation Order at no charge); production and any other use needs a paid Order under the Zyvor Production Licence v2.0. ([zyvor.dev/pricing](https://zyvor.dev/pricing)).
 
 ## Issues
 
