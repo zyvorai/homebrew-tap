@@ -1,5 +1,5 @@
 # Copyright 2026 Zyvor AI Labs · https://zyvor.dev
-# SPDX-License-Identifier: LicenseRef-Zyvor-Production-1.0
+# SPDX-License-Identifier: LicenseRef-Zyvor-Production-2.0
 
 # Homebrew formula: the macora command line (prebuilt, signed, Apple silicon). Lives in zyvorai/homebrew-tap.
 # The url and sha256 are updated by scripts/update-homebrew.sh when a release is published.
