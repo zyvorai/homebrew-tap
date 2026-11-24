@@ -5,9 +5,9 @@
 class Elvora < Formula
   desc "Apple infrastructure cloud: fleet agent, CLI and FluxVM runner"
   homepage "https://zyvorai.github.io/elvora/"
-  url "https://github.com/zyvorai/elvora/releases/download/v0.4.1/elvora-darwin-arm64.tar.gz"
-  version "0.4.1"
-  sha256 "c2026dcbedbf75b970eec4563e88f66abf62b19039231f9fdafdcdac11c8d7b1"
+  url "https://github.com/zyvorai/elvora/releases/download/v0.5.0/elvora-darwin-arm64.tar.gz"
+  version "0.5.0"
+  sha256 "7605cf9a07171e41fcc85d518a0d2eb07aa5cd69b45754c15458dc64114385fc"
   license :cannot_represent
 
   depends_on arch: :arm64

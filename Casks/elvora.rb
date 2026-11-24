@@ -3,8 +3,8 @@
 
 # Homebrew cask: Elvora.app (menu-bar companion). CLI/agent: Formula/elvora.rb.
 cask "elvora" do
-  version "0.4.2"
-  sha256 "4f564481baf595a5de4696666bc19305d513318359e4e232cee2fdcf8867467a"
+  version "0.5.0"
+  sha256 "2af816e4da9b4888a1fa3d0b4373c8d8058dadf3abd8b6908bcf3960866f864b"
 
   url "https://github.com/zyvorai/elvora/releases/download/v#{version}/Elvora-#{version}.dmg"
   name "Elvora"
