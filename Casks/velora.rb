@@ -3,8 +3,8 @@
 
 # Homebrew cask: Velora.app (signed/notarized DMG from zyvorai/velora releases).
 cask "velora" do
-  version "0.5.0"
-  sha256 "51477d67f355e55cae7b87b199396e1b9031f89007a4b5b061a74b397a53bf27"
+  version "0.5.1"
+  sha256 "f9da00fdf9a86c87459efc42ed7c4168be82df4dd2ecda009a8cd60de9412953"
 
   url "https://github.com/zyvorai/velora/releases/download/v#{version}/Velora-#{version}.dmg"
   name "Velora"
